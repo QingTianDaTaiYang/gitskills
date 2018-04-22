@@ -5,4 +5,8 @@ Git tracks changes.
 Creating a new branch is quick.
 bagayalu
 bababababababababa
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
